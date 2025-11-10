@@ -15,7 +15,7 @@ Neste guia, você aprenderá a:
 
 - ⚙️ **Rodar o DeepSeek localmente** utilizando o **Ollama**, uma ferramenta poderosa para gerenciar modelos de IA em sua própria máquina.
 
-![Ollama rodando modelo localmente](Ollama_rodando_modelo_no_PC.png)
+![Ollama rodando modelo localmente](Ollama_rodando_modelo_no%20PC.png)
 
 - 💬 **Criar uma interface de chat completa e interativa** com **Streamlit**, para conversar com o modelo de forma simples e intuitiva.
 
