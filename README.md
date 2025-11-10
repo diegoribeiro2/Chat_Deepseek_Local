@@ -13,9 +13,17 @@ Bem-vindo ao **Chat DeepSeek**, um projeto que mostra na prática como rodar o *
 
 Neste guia, você aprenderá a:  
 
-- ⚙️ **Rodar o DeepSeek localmente** utilizando o **Ollama**, uma ferramenta poderosa para gerenciar modelos de IA em sua própria máquina.  
-- 💬 **Criar uma interface de chat completa e interativa** com **Streamlit**, para conversar com o modelo de forma simples e intuitiva.  
-- 🌐 **Publicar o app na web com o ngrok**, permitindo acesso remoto seguro — até mesmo pelo seu celular.  
+- ⚙️ **Rodar o DeepSeek localmente** utilizando o **Ollama**, uma ferramenta poderosa para gerenciar modelos de IA em sua própria máquina.
+
+![Ollama rodando modelo localmente](Ollama_rodando_modelo_no_PC.png)
+
+- 💬 **Criar uma interface de chat completa e interativa** com **Streamlit**, para conversar com o modelo de forma simples e intuitiva.
+
+![DeepSeek app local](deepseek_local_app.png)
+  
+- 🌐 **Publicar o app na web com o ngrok**, permitindo acesso remoto seguro — até mesmo pelo seu celular.
+
+![Modelo rodando via ngrok](Modelo_rodando_no_ngrok.png)
 
 ---
 
