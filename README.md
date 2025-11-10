@@ -4,8 +4,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Ollama](https://img.shields.io/badge/Ollama-Local%20AI-black?logo=ollama&logoColor=white)](https://ollama.ai)
 [![ngrok](https://img.shields.io/badge/ngrok-Tunnel-green?logo=ngrok&logoColor=white)](https://ngrok.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Asimov Academy](https://img.shields.io/badge/Asimov%20Academy-AI%20Learning-orange)](https://asimov.academy)
 
 ---
 
