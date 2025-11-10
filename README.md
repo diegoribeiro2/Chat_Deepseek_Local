@@ -23,7 +23,7 @@ Neste guia, você aprenderá a:
   
 - 🌐 **Publicar o app na web com o ngrok**, permitindo acesso remoto seguro — até mesmo pelo seu celular.
 
-![Modelo rodando via ngrok](Modelo_rodando_no_ngrok.png)
+![Modelo rodando via ngrok](Modelo%20_rodando_no_ngrok.png)
 
 ---
 
